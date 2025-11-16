@@ -70,22 +70,17 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="1058" height="526" alt="image" src="https://github.com/user-attachments/assets/831db453-0e1e-4047-acae-ed47341d3823" />
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1602" height="857" alt="image" src="https://github.com/user-attachments/assets/2f21e6bd-a6ef-4686-be32-467d2a9ab746" />
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Hence it is verified .
